@@ -1,0 +1,9 @@
+javac RockCodi.java
+javac BambooCodi.java
+javac BambooImage.java
+javac PandaImage.java
+javac PandaPanel.java
+javac PandaScore.java
+javac EndFrame.java
+javac PandaMain.java
+java PandaMain
