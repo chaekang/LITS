@@ -1,5 +1,14 @@
 # LITS
 ## Java Project - Flowmate
+### 프로그램 정보
+작성일: 23.05.27 ~ 23.06.09
+참여자: 강찬결 이수민 전지우 채송화
+사용언어: java
+### 프로그램 툴
+1. java.swing
+2. java.awt
+3. java.Calender
+4. 참고 url: https://docs.oracle.com/javase/8/docs/api/
 ### 프로그램 목적
 1. 교내에서 생리대가 없을 때, 캠퍼스에 배치되어 있는 생리대의 소재를 확인할 수 있도록 도움을 제공
 2. 익숙하지 않은 건물에 있는 경우, 빠르게 화장실을 찾을 수 있도록 도움을 제공
