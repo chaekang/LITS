@@ -8,6 +8,9 @@ AWS RECOKNITION을 활용해 이미지의 텍스트를 추출하고 추출한 �
 1. AWS RECOKNITION
 2. GPT-3 TEXT 모델
 3. Streamlit
+
+### 파이썬 사용 라이브러리
+requirements.txt 참고
    
 ### 프로그램 작성 정보
 2023/08/11 ~ 2023/08/13 코드 작성
