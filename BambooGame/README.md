@@ -1,7 +1,13 @@
 # LITS
 ## Bamboo Game
+
 ### 설명
 날아오는 돌을 피해서 대나무를 먹는 게임
+
+### 사용 툴
+1. java.awt
+2. java.swing
+3. java.util
 
 ### 규칙
 1. 날아오는 돌을 피해서 대나무를 먹음
@@ -9,8 +15,3 @@
 3. 대나무를 먹으면 대나무 크기 별로 score 증가
 4. 돌에 맞으면 돌의 크기별로 score 감소
 5. 대나무를 먹지 않은 상태에서 score가 0 아래로 떨어지면 게임 종료
-
-### 사용 툴
-1. java.awt
-2. java.swing
-3. java.util
